@@ -1,0 +1,14 @@
+{
+	"Name": "A test-retest resting and cognitive state EEG dataset",
+    "BIDSVersion": "1.2",
+	"DatasetType": "raw",
+    "Authors": [
+        "Yulin Wang",
+        "Wei Duan",
+        "Lihong Ding",
+        "Debo Dong",
+        "Xu Lei"
+    ],
+    "License": "CC0",
+    "DatasetDOI": "unknown"
+}
