@@ -21,5 +21,8 @@
     "DatasetDOI": "10.18112/openneuro.ds003685.v1.0.1",
     "Funding": [
         "the National Natural Science Foundation of China (grant number 31971028) and the Major Project of Medicine Science and Technology of PLA (AWS17J012)"
+    ],
+    "ReferencesAndLinks": [
+        "Duan, W., Chen, X., Wang, Y. J., Zhao, W., Yuan, H., & Lei, X. (2021). Reproducibility of power spectrum, functional connectivity and network construction in resting-state EEG. Journal of Neuroscience Methods, 348, 108985."
     ]
 }
