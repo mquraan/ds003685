@@ -1,7 +1,7 @@
 {
-	"Name": "A test-retest resting and cognitive state EEG dataset",
+    "Name": "A Test-retest Resting and Cognitive State EEG Dataset",
     "BIDSVersion": "1.2",
-	"DatasetType": "raw",
+    "DatasetType": "raw",
     "Authors": [
         "Yulin Wang",
         "Wei Duan",
