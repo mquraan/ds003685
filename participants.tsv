@@ -1,61 +1,62 @@
-participant_id	age	sex
-sub-01	n/a	m
-sub-02	19	f
-sub-03	19	f
-sub-04	20	f
-sub-05	19	f
-sub-06	21	f
-sub-07	20	f
-sub-08	19	f
-sub-09	21	f
-sub-10	21	f
-sub-11	20	f
-sub-12	21	f
-sub-13	19	f
-sub-14	19	f
-sub-15	22	m
-sub-16	25	f
-sub-17	20	f
-sub-18	19	f
-sub-19	19	f
-sub-20	19	m
-sub-21	n/a	n/a
-sub-22	n/a	f
-sub-23	19	f
-sub-24	19	f
-sub-25	18	m
-sub-26	20	m
-sub-27	19	f
-sub-28	n/a	n/a
-sub-29	20	m
-sub-30	20	f
-sub-31	18	f
-sub-32	20	f
-sub-33	19	f
-sub-34	22	m
-sub-35	21	m
-sub-36	21	m
-sub-37	19	m
-sub-38	21	m
-sub-39	20	m
-sub-40	19	m
-sub-41	20	m
-sub-42	19	f
-sub-43	20	m
-sub-44	19	m
-sub-45	22	f
-sub-46	21	m
-sub-47	18	f
-sub-48	19	m
-sub-49	20	m
-sub-50	21	m
-sub-51	20	m
-sub-52	18	m
-sub-53	20	m
-sub-54	18	m
-sub-55	n/a	m
-sub-56	18	f
-sub-57	18	m
-sub-58	18	f
-sub-59	28	m
-sub-60	26	f
+participant_id	age	sex	Height	Weight	SAS	SDS	ESS
+sub-01	n/a	m	178	58	30	38	5
+sub-02	19	f	155	49	36	35	13
+sub-03	19	f	169	46	69	64	9
+sub-04	20	f	157	47	41	51	12
+sub-05	19	f	171	68	35	43	12
+sub-06	21	f	166	56	34	51	14
+sub-07	20	f	167	49.7	35	43	10
+sub-08	19	f	175	72	34	38	9
+sub-09	21	f	165	54	48	41	10
+sub-10	21	f	160	57	34	35	6
+sub-11	20	f	160	66	35	39	6
+sub-12	21	f	156	100	45	51	10
+sub-13	19	f	155	46.5	48	53	7
+sub-14	19	f	162	49	39	43	9
+sub-15	22	m	168	58	36	40	9
+sub-16	25	f	165	60	36	38	8
+sub-17	20	f	163	50	39	33	12
+sub-18	19	f	164	54	41	51	9
+sub-19	19	f	172	56	31	39	8
+sub-20	19	m	180	74	44	50	10
+sub-21	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+sub-22	n/a	f	160	49	54	59	13
+sub-23	19	f	160	55	36	46	11
+sub-24	19	f	160	51	56	53	14
+sub-25	18	m	174	83	39	48	16
+sub-26	20	m	162	50	35	35	4
+sub-27	19	f	164	52	26	29	14
+sub-28	n/a	n/a	n/a	n/a	n/a	n/a	n/a 
+sub-29	20	m	173	70	36	39	2
+sub-30	20	f	168	53	38	46	10
+sub-31	18	f	160	42	51	51	10
+sub-32	20	f	160	50	29	29	3
+sub-33	19	f	170	63	31	49	9
+sub-34	22	m	185	58	56	63	13
+sub-35	21	m	177	69	36	41	6
+sub-36	21	m	177	62	40	49	7
+sub-37	19	m	182	77	39	41	9
+sub-38	21	m	175	64	49	43	17
+sub-39	20	m	165	65	38	45	10
+sub-40	19	m	175	60	34	29	5
+sub-41	20	m	180	71	38	35	9
+sub-42	19	f	165	50	38	45	13
+sub-43	20	m	58	172	35	39	6
+sub-44	19	m	185	75	40	41	12
+sub-45	22	f	1.65	55	45	45	7
+sub-46	21	m	167	50	48	58	9
+sub-47	18	f	153	49	43	40	5
+sub-48	19	m	174	57	44	41	13
+sub-49	20	m	173	56	38	34	13
+sub-50	21	m	175	60	33	49	5
+sub-51	20	m	167	60	59	59	15
+sub-52	18	m	170	51	56	56	7
+sub-53	20	m	178	74	45	46	8
+sub-54	18	m	185	83	45	50	11
+sub-55	n/a	m	172	92	45	46	3
+sub-56	18	f	157	43	43	46	15
+sub-57	18	m	172	63	53	51	14
+sub-58	18	f	157	48	38	44	8
+sub-59	28	m	171	70	35	46	12
+sub-60	26	f	163	52	30	33	7
+
